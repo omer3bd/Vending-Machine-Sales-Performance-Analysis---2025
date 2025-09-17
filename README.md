@@ -1,15 +1,15 @@
 # **Vending Machine Sales Performance Analysis - 2025**
 ## **Table of content**
-- Project Background
-- Data Structure
-- Executive Summary
-  - Overview and Finds 
-- Insights Deep Dive
-  - Peak hours and Sales trends
-  - Customer Frequency, Contribution and Retention
-  - Card payments vs Cash payments
-- Recommendations
-- Assumptions and Caveats
+- [Project Background](#project-background)
+- [Data Structure](#data-structure)
+- [Executive Summary](#executive-summary)
+  - [Overview and Finds](#_overview-of-findings_)
+- [Insights Deep Dive](#insights-deep-dive)
+  - [Peak hours and Sales trends](#peak-hours-and-sales-trends)
+  - [Customer Frequency, Contribution and Retention](#customer-frequency-contribution-and-retention)
+  - [Card payments vs Cash payments](#card-payments-vs-cash-payments)
+- [Recommendations](#recommendations)
+- [Assumptions and Caveats](#assumptions-and-caveats)
 
 ## **Project Background:**
 This dataset contains detailed records of coffee sales from a Vending Machine. It is intended for analysis of purchasing patterns, sales trends, and customer preferences related to coffee products.
