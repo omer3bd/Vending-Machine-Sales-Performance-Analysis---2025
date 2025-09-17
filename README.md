@@ -40,7 +40,7 @@ with a **total row count of 3,636 records**.
 ### _Overview of Findings:_
 This vending machine analysis from 2024 to 2025 reveals its hourly performance shows **peak demand** in the mid-morning and a **secondary spike at 19:00 for cappuccino**. The customer AOV and retention patterns reveals that **revenue is heavily concentrated among a small number of repeat customers**. While some individuals demonstrate high visit frequency, their average order value tends to be lower. The AOV reached its lowest point in 2024 on August 25 at \$27, followed by a gradual recovery to \$30–\$33 by October 13, 2024. Since then, AOV has remained stable through the 2025 year. A critical concern is the consistently low customer retention, with cohorts showing a sharp drop-off after over the first month. Overall vending machine transactions declined significantly between November 24, 2024, and January 19, 2025, coinciding with holidays and winter breaks. 
 
-Below is the page from tableau dashboard and more examples are included throughout the report. The entire interactive dashboard can be used [here].(https://public.tableau.com/views/VendingMachineSalesPerformanceAnalysis-2025_17579857198010/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+Below is the page from tableau dashboard and more examples are included throughout the report. The entire interactive dashboard can be used [here](https://public.tableau.com/views/VendingMachineSalesPerformanceAnalysis-2025_17579857198010/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ![](images/Dashboard%201-3.png)
 
