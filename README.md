@@ -78,7 +78,7 @@ Below is the page from tableau dashboard and more examples are included througho
 ![](images/cards%20vs%20cash%20plus%20aov.png)
 
 
-## Recommendations
+## Recommendations:
 - **Operating Hours Adjustment**: Adjust opening time to 07:30 or 08:00 to align with the arrival of office and school populations. Consider closing by 21:00 to reduce low-yield operating costs, as sales at 22:00 represent only 3.1 % of daily volume.
 - **Enhance Customer Retention**: Launch periodic promotions or limited-time beverages aligned with seasonal events (e.g., summer cold brews, holiday-themed drinks for Christmas) to renew interest among lapsed customers and attract new visits.
 - **Monitor Payment Trends and Machine Working Conditions**: Ensure that machines are fully operational with both payment options. Periodically review payment system performance to avoid dips experienced in sales trends
