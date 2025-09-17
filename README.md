@@ -40,7 +40,7 @@ with a **total row count of 3,636 records**.
 ### _Overview of Findings:_
 This vending machine analysis from 2024 to 2025 reveals its hourly performance shows **peak demand** in the mid-morning and a **secondary spike at 19:00 for cappuccino**. The customer AOV and retention patterns reveals that **revenue is heavily concentrated among a small number of repeat customers**. While some individuals demonstrate high visit frequency, their average order value tends to be lower. The AOV reached its lowest point in 2024 on August 25 at \$27, followed by a gradual recovery to \$30–\$33 by October 13, 2024. Since then, AOV has remained stable through the 2025 year. A critical concern is the consistently low customer retention, with cohorts showing a sharp drop-off after over the first month. Overall vending machine transactions declined significantly between November 24, 2024, and January 19, 2025, coinciding with holidays and winter breaks. 
 
-Below is the page from tableau dashboard and more examples are included throughout the report. The entire interactive dashboard can be used [here](https://public.tableau.com/views/VendingMachineSalesPerformanceAnalysis-2025_17579857198010/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+Below is the page from tableau dashboard and more examples are included throughout the report. The entire interactive dashboard can be used [here].(https://public.tableau.com/views/VendingMachineSalesPerformanceAnalysis-2025_17579857198010/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ![](images/Dashboard%201-3.png)
 
@@ -65,15 +65,15 @@ Below is the page from tableau dashboard and more examples are included througho
 
 
 ### Card payments vs Cash payments:
-• **Transactions conducted via card have exhibited a steady upward trend, reaching a peak of 110 transactions in the week of October 6, 2024**. While there was a temporary dip on **August 25, 2024**, with only **32 transactions**, activity quickly recovered in the subsequent period leading up to the peak.
+- **Transactions conducted via card have exhibited a steady upward trend, reaching a peak of 110 transactions in the week of October 6, 2024**. While there was a temporary dip on **August 25, 2024**, with only **32 transactions**, activity quickly recovered in the subsequent period leading up to the peak.
 
-• **Vending machine transactions experienced a notable decline, remaining consistently low from November 24, 2024, to January 19, 2025**. Consequently, the opening period of 2025 reflected limited sales activity. This period includes late November, December, and early January, coinciding with holidays and winter breaks in schools, offices, and other public facilities. Reduced foot traffic naturally leads to lower sales during the holiday seasons.
+- **Vending machine transactions experienced a notable decline, remaining consistently low from November 24, 2024, to January 19, 2025**. Consequently, the opening period of 2025 reflected limited sales activity. This period includes late November, December, and early January, coinciding with holidays and winter breaks in schools, offices, and other public facilities. Reduced foot traffic naturally leads to lower sales during the holiday seasons.
 
-• **A discontinuation of cash payments is observed after June 2, 2024**. Consequently, the Average Order Value (AOV) for cash transactions also shows a corresponding cutoff for cash transactions from the same date onward. This trend is likely the result of the vending machine being out of service.
+- **A discontinuation of cash payments is observed after June 2, 2024**. Consequently, the Average Order Value (AOV) for cash transactions also shows a corresponding cutoff for cash transactions from the same date onward. This trend is likely the result of the vending machine being out of service.
 
-• **Cash payments were discontinued, and while transaction frequency remained relatively constant, the Average Order Value (AOV) experienced a decline from \$37 to \$34**. This decrease is likely attributable to customers purchasing lower-priced items, such as smaller drinks.
+- **Cash payments were discontinued, and while transaction frequency remained relatively constant, the Average Order Value (AOV) experienced a decline from \$37 to \$34**. This decrease is likely attributable to customers purchasing lower-priced items, such as smaller drinks.
 
-• **The Vending Machine AOV reached its lowest point for 2024 on August 25** recording an average **transaction value of \$27**. Following this period, we saw a gradual increase in AOV, reaching approximately **\$30–\$33 by October 13, 2024**. Moving forward, the AOV remained stable through the 2025 year open, indicating a consistent transaction value after the initial recovery period.
+- **The Vending Machine AOV reached its lowest point for 2024 on August 25** recording an average **transaction value of \$27**. Following this period, we saw a gradual increase in AOV, reaching approximately **\$30–\$33 by October 13, 2024**. Moving forward, the AOV remained stable through the 2025 year open, indicating a consistent transaction value after the initial recovery period.
 
 ![](images/cards%20vs%20cash%20plus%20aov.png)
 
@@ -81,7 +81,7 @@ Below is the page from tableau dashboard and more examples are included througho
 ## Recommendations:
 - **Operating Hours Adjustment**: Adjust opening time to 07:30 or 08:00 to align with the arrival of office and school populations. Consider closing by 21:00 to reduce low-yield operating costs, as sales at 22:00 represent only 3.1 % of daily volume.
 - **Enhance Customer Retention**: Launch periodic promotions or limited-time beverages aligned with seasonal events (e.g., summer cold brews, holiday-themed drinks for Christmas) to renew interest among lapsed customers and attract new visits.
-- **Monitor Payment Trends and Machine Working Conditions**: Ensure that machines are fully operational with both payment options. Periodically review payment system performance to avoid dips experienced in sales trends
+- **Monitor Payment Trends and Machine Working Conditions**: Ensure that machines are fully operational with both payment options. Periodically review payment system performance to avoid dips experienced in sales trends.
 - **Seasonal Planning and Inventory Management**: Anticipate lower foot traffic during holiday periods and adjust inventory levels proactively to minimize waste and maintain operational efficiency. Following the holidays, implement targeted promotions or loyalty incentives to accelerate the recovery of transaction volume and sustain customer engagement
 
 ## Assumptions and Caveats:
